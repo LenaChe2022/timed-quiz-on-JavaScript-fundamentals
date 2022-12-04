@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+.nav {
+    display: flex;
+   /* flex-direction: row;*/
+    justify-content: space-between;
+    color:blueviolet;
+    font-size: larger;
+}
+
+button {
+    padding: 10px;
+    margin: 24px;
+    cursor: pointer;
+    font-size: 24px;
+    color: white;
+    background-color: blueviolet;
+ }
+
+.container {
+    display: block;
+    margin: 80px auto;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 60vw;
+    padding: 20px;
+    background-color: white;
+  }
+
+.result {
+    display: block;
+    color: grey;
+    text-align: center;
+    font-size: x-large;
+}
