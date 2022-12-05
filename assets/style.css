@@ -44,5 +44,10 @@ button {
     display: flex;
     flex-direction: column;
     width: fit-content;
+    
+}
 
+#msg{
+    color:red;
+    text-align: center;
 }
