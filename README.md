@@ -14,6 +14,8 @@ N/A
 
 ## Usage
 
+https://lenache2022.github.io/timed-quiz-on-JavaScript-fundamentals/
+
 Apload the link and you'll see this page:
 
 <img width="1115" alt="Screenshot 2022-12-05 at 5 05 16 PM" src="https://user-images.githubusercontent.com/116528749/205782007-eb4faa9b-8ae2-4a8c-b729-a00458ee8294.png">
