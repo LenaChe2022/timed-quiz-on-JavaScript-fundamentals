@@ -16,24 +16,23 @@ var answer4Element;
 var rightAnswer;
 
 
-
-//TODO: Add array of questions and answers
+//TODO: I need array of questions and answers
 var allQuestions = [
     {
-    "question": "Question 1",
-    "answer1": "1",
-    "answer2": "2",
-    "answer3": "3",
-    "answer4": "4",
-    "trueAnswer": "2"
+    "question": "What is JavaScript?",
+    "answer1": "I don't know yet",
+    "answer2": "I don't know yet2",
+    "answer3": "I don't know yet",
+    "answer4": "I don't know yet",
+    "trueAnswer": "I don't know yet"
     },
     {
-    "question": "Question 2",
-    "answer1": "5",
-    "answer2": "6",
-    "answer3": "7",
-    "answer4": "8",
-    "trueAnswer": "8"
+    "question": "How does it work?",
+    "answer1": "I can not understand yet",
+    "answer2": "I can not understand yet",
+    "answer3": "I can not understand yet",
+    "answer4": "I can not understand yet",
+    "trueAnswer": "I can not understand yet"
     }
 ];
 
@@ -211,6 +210,6 @@ function lastPage() {
 };
 }
 
-function fingHighScore() {
+function findHighScore() {
 
 }
